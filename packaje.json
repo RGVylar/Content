@@ -1,0 +1,22 @@
+{
+  "name": "DuckGameContent",
+  "version": "1.0.0",
+  "description": "Project in progress",
+  "main": "start.bat",
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RGVylar/DuckGameContent.git"
+  },
+  "author": "RGVylar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RGVylar/DuckGameContent/issues"
+  },
+  "homepage": "https://github.com/RGVylar/DuckGameContent#readme",
+  "dependencies": {
+    "npm": "^5.8.0"
+  }
+}
