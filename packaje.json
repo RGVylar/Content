@@ -4,6 +4,8 @@
   "description": "Project in progress",
   "main": "start.bat",
   "scripts": {
+    "start":"dir /S /W > dir.html",
+    "next":"dir.html",
     "test": "echo \"Error: no test specified\""
   },
   "repository": {
