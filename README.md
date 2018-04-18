@@ -24,14 +24,14 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 | Blueprint              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
 | [Personaje][personaje] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg) |
-| [Nota][nota] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Tile.uasset.svg) |
-| [Pausa][pausa] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pausa.uasset.svg) |
-| [Levels][levels] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Levels.uasset.svg) |
-| [Hud][hud] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Hud.uasset.svg) |
-| [Menu][menu] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Menu.uasset.svg) |
-| [PartidaGuardada][partidaguardada] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset.svg) |
-| [Pasillo_BP][pasillo] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pasillo_BP.uasset.svg) |
-| [Caja_BP][caja] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Caja_BP.uasset.svg) |
+| [Nota][nota] | El actor nota para el juego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Tile.uasset.svg) |
+| [Pausa][pausa] | Es el menu de pausa, detiene el juego y saca en pantalla dos botones | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pausa.uasset.svg) |
+| [Levels][levels] | Es el menu de seleccion de niveles | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Levels.uasset.svg) |
+| [Hud][hud] | Es el hud que se sobrepone con el juego | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Hud.uasset.svg) |
+| [Menu][menu] | Menu inicial donde elegimos lo que hacer | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Menu.uasset.svg) |
+| [PartidaGuardada][partidaguardada] | Es para guardar las variables que queremos que sobrevivan reinicios | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset.svg) |
+| [Pasillo_BP][pasillo] | Un pasillo que se va extendiendo indefinidamente | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pasillo_BP.uasset.svg) |
+| [Caja_BP][caja] | Una cahja que nos sigue y puede propulsarnos | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Caja_BP.uasset.svg) |
 
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
