@@ -6,11 +6,11 @@
 
 Puedes comprobar los avances y participacion del proyecto [aqui][here].
 
-Puedes generar el arbol de archivos con un simple comando para visualizarlo comodamente en un txt
+Tambien puedes generar un resumen de archivos con un simple comando para visualizarlo en la consola
 ```cmd
-dir /S /W > dir.txt
+dir /S /W
 ```
-Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el archivo [Archivos][archivos], podras encontrar el arbol en el archivo [Dir][dir]
+Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [archivo][archivos], podras encontrar el resultado [aqui][dir]
 
 
 * [Blueprints](#blueprints)
