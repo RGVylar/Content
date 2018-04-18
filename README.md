@@ -13,7 +13,7 @@
 ## Blueprints
 | Blueprint   |     Descripcion   |     url      |
 |   :---:     |     :---:         |     :---:    |
-| Personaje   | Todo lo relacionado con el control del actor personaje | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset) |
+| [Personaje][2DSideScrollerCharacter.uasset]   | Todo lo relacionado con el control del actor personaje | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset) |
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
 <a name="materiales"></a>
