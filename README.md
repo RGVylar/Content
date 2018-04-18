@@ -9,11 +9,14 @@
 * [Texturas][#texturas]
 * [Sonidos][#sonidos]
 
+<a name="blueprints"></a>
 ## Blueprints
 | Blueprint   |     Descripcion   |     url      |
 |   :---:     |     :---:         |     :---:    |
 | Personaje   | Todo lo relacionado con el control del actor personaje | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset) |
 >Las url cambiaran, debido a la necesario organizacion del repositorio
+
+<a name="materiales"></a>
 ## Materiales
 | Material   |     Descripcion   |     Url         |
 |   :---:    |     :---:         |     :---:       |  
@@ -21,8 +24,10 @@
 | MiniMap    | Material utilizado para crear el minimapa  | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset) |
 | MiniMap_RT | Material utilizado para crear el minimapa | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap_RT.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset) |
 
+<a name="texturas"></a>
 ## Texturas
 
+<a name="sonidos"></a>
 ## Sonidos
 
 
