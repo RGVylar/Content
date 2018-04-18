@@ -27,6 +27,9 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 | [Levels][levels] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Levels.uasset.svg) |
 | [Hud][hud] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Hud.uasset.svg) |
 | [Menu][menu] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Menu.uasset.svg) |
+| [PartidaGuardada][partidaguardada] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset.svg) |
+| [Pasillo_BP][pasillo] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pasillo_BP.uasset.svg) |
+| [Caja_BP][caja] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Caja_BP.uasset.svg) |
 
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
@@ -35,7 +38,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 | Mapa              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
 | [Start][start] | Es el menu inicial | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Maps/Start.umap.svg) |
-| [Pianos][piano] | Es el minijuego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Maps/Piamos.umap.svg) |
+| [Pianos][piano] | Es el minijuego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Maps/Pianos.umap.svg) |
 
 <a name="materiales"></a>
 ## Materiales
@@ -60,6 +63,9 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 [levels]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Levels.uasset
 [hud]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Hud.uasset
 [menu]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Menu.uasset
+[partidaguardada]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset
+[pasillo]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Pasillo_BP.uasset
+[caja]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Caja_BP.uasset
 
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
 [piano]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Pianos.umap
