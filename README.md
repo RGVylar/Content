@@ -20,9 +20,9 @@
 ## Materiales
 | Material   |     Descripcion   |     Url         |
 |   :---:    |     :---:         |     :---:       |  
-| Neon       | Material de neon al que no le afecta la iluminacion y produce reflejos en materiales metalicos | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Neon.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset) |
-| MiniMap    | Material utilizado para crear el minimapa  | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset) |
-| MiniMap_RT | Material utilizado para crear el minimapa | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap_RT.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset) |
+| [Neon][neon]       | Material de neon al que no le afecta la iluminacion y produce reflejos en materiales metalicos | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Neon.uasset.svg) |
+| [MiniMap][minimapa]    | Material utilizado para crear el minimapa  | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap.uasset.svg) |
+| [MiniMap_RT][minimapart] | Material utilizado para crear el minimapa | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap_RT.uasset.svg)|
 
 <a name="texturas"></a>
 ## Texturas
@@ -31,5 +31,7 @@
 ## Sonidos
 
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
-
+[neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
+[minimapa]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset
+[minimapart]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset
 
