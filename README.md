@@ -9,15 +9,11 @@
 [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset)
 
 # Materiales
-
-Neon 
-[![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Neon.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset)
-
-MiniMap
-[![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset)
-
-MiniMap_RT
-[![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap_RT.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset)
+| Material   |     Url        |
+|   :---:    |     :---:      |
+| Neon       | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Neon.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset) |
+| MiniMap    | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset) |
+| MiniMap_RT | [![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScroller/Materials/MiniMap_RT.uasset.svg)](https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset) |
 
 
 
