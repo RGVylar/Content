@@ -67,15 +67,15 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 [archivos]:https://github.com/RGVylar/Content/blob/Pre/archivos.bat
 [dir]:https://github.com/RGVylar/Content/blob/Pre/dir.txt
 
-[personaje]:https://github.com/RGVylar/Content/blob/Pre/Personaje/Blueprints/2DSideScrollerCharacter.uasset
-[nota]:https://github.com/RGVylar/Content/blob/Pre/Nota/Blueprints/Tile.uasset
+[personaje]:https://github.com/RGVylar/Content/blob/Pre/Personaje
+[nota]:https://github.com/RGVylar/Content/blob/Pre/Nota
 [pausa]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Blueprints/Pausa.uasset
 [levels]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Blueprints/Levels.uasset
 [hud]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Blueprints/Hud.uasset
 [menu]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Blueprints/Menu.uasset
 [partidaguardada]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset
-[pasillo]:https://github.com/RGVylar/Content/blob/Pre/Pasillo/Blueprints/Pasillo_BP.uasset
-[caja]:https://github.com/RGVylar/Content/blob/Pre/Caja/Blueprints/Caja_BP.uasset
+[pasillo]:https://github.com/RGVylar/Content/blob/Pre/Pasillo
+[caja]:https://github.com/RGVylar/Content/blob/Pre/Caja
 
 [start]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Maps/Start.umap
 [piano]:https://github.com/RGVylar/Content/blob/Pre/2DSideScrollerBP/Maps/Pianos.umap
