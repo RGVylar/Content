@@ -29,6 +29,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 | Mapa              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
 | [Start][start] | Es el menu inicial | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Maps/Start.umap.svg) |
+| [Pianos][piano] | Es el minijuego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Maps/Piamos.umap.svg) |
 
 <a name="materiales"></a>
 ## Materiales
@@ -48,6 +49,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 [dir]:https://github.com/RGVylar/DuckGameContent/blob/master/dir.txt
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
+[piano]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Pianos.umap
 [neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
 [minimapa]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset
 [minimapart]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset
