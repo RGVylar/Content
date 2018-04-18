@@ -22,6 +22,12 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 | Blueprint              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
 | [Personaje][personaje] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg) |
+| [Nota][nota] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Tile.uasset.svg) |
+| [Pausa][pausa] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Pausa.uasset.svg) |
+| [Levels][levels] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Levels.uasset.svg) |
+| [Hud][hud] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Hud.uasset.svg) |
+| [Menu][menu] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/Menu.uasset.svg) |
+
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
 <a name="mapas"></a>
@@ -47,9 +53,17 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 
 [archivos]:https://github.com/RGVylar/DuckGameContent/blob/master/archivos.bat
 [dir]:https://github.com/RGVylar/DuckGameContent/blob/master/dir.txt
+
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
+[nota]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Tile.uasset
+[pausa]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Pausa.uasset
+[levels]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Levels.uasset
+[hud]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Hud.uasset
+[menu]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/Menu.uasset
+
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
 [piano]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Pianos.umap
+
 [neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
 [minimapa]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap.uasset
 [minimapart]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScroller/Materials/MiniMap_RT.uasset
