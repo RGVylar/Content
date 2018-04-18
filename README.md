@@ -4,6 +4,11 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/RGVylar/DuckGameContent.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/RGVylar/DuckGameContent.svg)](https://github.com/RGVylar/DuckGameContent/graphs/contributors)
 
+## Cofiguracion para su uso
+
+Este repositorio solo alberga la carpeta content de nuestro proyecto final, para poder utilizarlo, debes tener la base del proyecto, que no he podido subir a GitHub por tener archivos con un tamaño mayor al permitido.
+>Si no tienes el proyecto base, puedes descargarlo [aqui][mega].
+
 Puedes comprobar los avances y participacion del proyecto [aqui][here].
 
 Tambien puedes generar un resumen de archivos con un simple comando para visualizarlo en la consola
@@ -56,6 +61,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 <a name="sonidos"></a>
 ## Sonidos
 
+[mega]:index.html
 [here]:https://github.com/RGVylar/DuckGameContent/graphs/contributors
 
 [archivos]:https://github.com/RGVylar/DuckGameContent/blob/master/archivos.bat
