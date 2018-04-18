@@ -1,0 +1,432 @@
+
+ Directorio de DuckGameContent
+
+[.]                              [..]
+[2DSideScroller]                 [2DSideScrollerBP]
+archivos.bat                     Box_Brush7_StaticMesh.uasset
+camara.uasset                    CONTRIBUTING.md
+cube_map.uasset                  dir.txt
+EdSplash.bmp                     EdSplash.uasset
+index.html                       index.js
+Inicio.uasset                    package.json
+packaje.json                     Pinchos_BP.uasset
+Platf.uasset                     README.md
+render.uasset                    Roll_BP.uasset
+Sphere_Brush_StaticMesh.uasset   [Splash]
+Suelo_BP.uasset                  tree.txt
+[Unsorted]                       
+              21 archivos      1.225.763 bytes
+
+ Directorio de DuckGameContent\2DSideScroller
+
+[.]         [..]        [Materials] [Sounds]    [Sprites]   [Textures]
+               0 archivos              0 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Materials
+
+[.]                                [..]
+MiniMap.uasset                     MiniMap_RT.uasset
+pixelar.uasset                     PrototypingSpriteMaterial.uasset
+               4 archivos        298.711 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sounds
+
+[.]                                 [..]
+death.uasset                        DontFuckWithDuck.uasset
+ignite.uasset                       jump.uasset
+magnum.uasset                       openClick.uasset
+quack-sound.mp3                     Spag_Heddy_-_Gimme_A_Break.uasset
+zekeQuack.uasset                    
+               9 archivos     66.211.122 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites
+
+[.]                                [..]
+[Armas]                            Background_Sprite.uasset
+[Blocks]                           [Bot]
+CrouchAnimation.uasset             CrouchAnimation_Bot.uasset
+CrouchAnimation_Quack.uasset       CrouchingMov.uasset
+CrouchingMov_Bot.uasset            CrouchingMov_Quack.uasset
+[Door]                             [enemigos]
+[Explosion]                        IdleAnimation.uasset
+IdleAnimation_Bot.uasset           IdleAnimation_Quack.uasset
+[IdleFrames]                       idle_espada.uasset
+Idle_Hands.uasset                  JumpingAnimation.uasset
+JumpingAnimation_Bot.uasset        JumpingAnimation_Quack.uasset
+Jump_hand.uasset                   Ledge.uasset
+[Manos]                            [Muelle]
+natureBackground.uasset            natureBackground_Sprite_0.uasset
+[pinchos]                          [Plataformas]
+[Presentador]                      PrototypingSprite.uasset
+[QuackDucks]                       [RunFrames]
+RunningAnimation.uasset            RunningAnimation_Bot.uasset
+RunningAnimation_Quack.uasset      Running_hands.uasset
+Sword_Rotation.uasset              television.uasset
+              26 archivos        561.367 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Armas
+
+[.]                        [..]
+ak.uasset                  ak_Sprite_0.uasset
+espadas.uasset             espadas_Sprite_0.uasset
+espadas_Sprite_1.uasset    espadas_Sprite_2.uasset
+espadas_Sprite_3.uasset    revolver.uasset
+revolver_Sprite_0.uasset   
+               9 archivos        134.924 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Blocks
+
+[.]     [..]    [Caja]  [Earth] [Spawn] 
+               0 archivos              0 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Blocks\Caja
+
+[.]                    [..]                   Caja.uasset
+Caja_Sprite_0.uasset   Caja_Sprite_1.uasset   Caja_Sprite_2.uasset
+Caja_Sprite_3.uasset   
+               5 archivos        133.302 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Blocks\Earth
+
+[.]                      [..]                     earth.uasset
+earth_Mat.uasset         earth_Sprite_0.uasset    earth_Sprite_1.uasset
+earth_Sprite_10.uasset   earth_Sprite_11.uasset   earth_Sprite_12.uasset
+earth_Sprite_13.uasset   earth_Sprite_14.uasset   earth_Sprite_15.uasset
+earth_Sprite_16.uasset   earth_Sprite_17.uasset   earth_Sprite_18.uasset
+earth_Sprite_19.uasset   earth_Sprite_2.uasset    earth_Sprite_20.uasset
+earth_Sprite_21.uasset   earth_Sprite_22.uasset   earth_Sprite_23.uasset
+earth_Sprite_24.uasset   earth_Sprite_3.uasset    earth_Sprite_4.uasset
+earth_Sprite_5.uasset    earth_Sprite_6.uasset    earth_Sprite_7.uasset
+earth_Sprite_8.uasset    earth_Sprite_9.uasset    
+              27 archivos        831.105 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Blocks\Spawn
+
+[.]                      [..]                     blocks.uasset
+blocks_Sprite_0.uasset   blocks_Sprite_1.uasset   blocks_Sprite_2.uasset
+blocks_Sprite_3.uasset   blocks_Sprite_4.uasset   blocks_Sprite_5.uasset
+               7 archivos        117.477 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Bot
+
+[.]                    [..]                   jni.uasset
+jni_Sprite_0.uasset    jni_Sprite_1.uasset    jni_Sprite_10.uasset
+jni_Sprite_11.uasset   jni_Sprite_12.uasset   jni_Sprite_13.uasset
+jni_Sprite_14.uasset   jni_Sprite_15.uasset   jni_Sprite_16.uasset
+jni_Sprite_2.uasset    jni_Sprite_3.uasset    jni_Sprite_4.uasset
+jni_Sprite_5.uasset    jni_Sprite_6.uasset    jni_Sprite_7.uasset
+jni_Sprite_8.uasset    jni_Sprite_9.uasset    
+              18 archivos        437.560 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Door
+
+[.]                     [..]                    door.uasset
+DoorOpen.uasset         door_Sprite_0.uasset    door_Sprite_1.uasset
+door_Sprite_10.uasset   door_Sprite_11.uasset   door_Sprite_12.uasset
+door_Sprite_13.uasset   door_Sprite_14.uasset   door_Sprite_15.uasset
+door_Sprite_16.uasset   door_Sprite_17.uasset   door_Sprite_18.uasset
+door_Sprite_19.uasset   door_Sprite_2.uasset    door_Sprite_20.uasset
+door_Sprite_21.uasset   door_Sprite_22.uasset   door_Sprite_23.uasset
+door_Sprite_24.uasset   door_Sprite_25.uasset   door_Sprite_26.uasset
+door_Sprite_27.uasset   door_Sprite_28.uasset   door_Sprite_29.uasset
+door_Sprite_3.uasset    door_Sprite_30.uasset   door_Sprite_31.uasset
+door_Sprite_4.uasset    door_Sprite_5.uasset    door_Sprite_6.uasset
+door_Sprite_7.uasset    door_Sprite_8.uasset    door_Sprite_9.uasset
+idleDoor.uasset         
+              35 archivos        705.798 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\enemigos
+
+[.]           [..]          [boss1]       [BOSS2]       [Gota]
+gota.uasset   
+               1 archivos         42.180 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\enemigos\boss1
+
+[.]                          [..]
+NewPaperFlipbook.uasset      New_Piskel.uasset
+New_Piskel_Sprite_0.uasset   New_Piskel_Sprite_1.uasset
+New_Piskel_Sprite_2.uasset   New_Piskel_Sprite_3.uasset
+               6 archivos        169.125 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\enemigos\BOSS2
+
+[.]                                [..]
+Megamanx_running.uasset            Megamanx_running_Sprite_0.uasset
+Megamanx_running_Sprite_1.uasset   Megamanx_running_Sprite_2.uasset
+Megamanx_running_Sprite_3.uasset   Megamanx_running_Sprite_4.uasset
+NewPaperFlipbook.uasset            
+               7 archivos        292.138 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\enemigos\Gota
+
+[.]                              [..]
+gota_air.uasset                  gota_collision.uasset
+gota_spawn.uasset                New_Piskel__1_.uasset
+New_Piskel__1__Sprite_0.uasset   New_Piskel__1__Sprite_1.uasset
+New_Piskel__1__Sprite_2.uasset   New_Piskel__1__Sprite_3.uasset
+New_Piskel__1__Sprite_4.uasset   New_Piskel__1__Sprite_5.uasset
+New_Piskel__1__Sprite_6.uasset   New_Piskel__1__Sprite_7.uasset
+New_Piskel__1__Sprite_8.uasset   New_Piskel__1__Sprite_9.uasset
+              14 archivos        348.153 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Explosion
+
+[.]                        [..]
+ActivedMine.uasset         bazooka.uasset
+bazooka_Sprite_0.uasset    Explosion.uasset
+Explosion_Anm.uasset       Explosion_Sprite.uasset
+Explosion_Sprite1.uasset   Explosion_Sprite2.uasset
+Explosion_Sprite3.uasset   Explosion_Sprite4.uasset
+Explosion_Sprite5.uasset   idleNade.uasset
+mine.uasset                mine_Sprite_0.uasset
+mine_Sprite_1.uasset       mine_Sprite_2.uasset
+misiol.uasset              misiol_Sprite_0.uasset
+nade.uasset                nade_Sprite_0.uasset
+nade_Sprite_1.uasset       
+              21 archivos        601.266 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\IdleFrames
+
+[.]                      [..]                     alas.uasset
+duck.uasset              IdleCycle2.uasset        IdleCycle3.uasset
+IdleCycle4.uasset        IdleCycle5.uasset        IdleCycle6.uasset
+IdleCycle7.uasset        IdleCycle8.uasset        patos.uasset
+patos_Sprite_0.uasset    patos_Sprite_1.uasset    patos_Sprite_10.uasset
+patos_Sprite_11.uasset   patos_Sprite_12.uasset   patos_Sprite_13.uasset
+patos_Sprite_14.uasset   patos_Sprite_15.uasset   patos_Sprite_16.uasset
+patos_Sprite_17.uasset   patos_Sprite_18.uasset   patos_Sprite_19.uasset
+patos_Sprite_2.uasset    patos_Sprite_20.uasset   patos_Sprite_3.uasset
+patos_Sprite_4.uasset    patos_Sprite_5.uasset    patos_Sprite_6.uasset
+patos_Sprite_7.uasset    patos_Sprite_8.uasset    patos_Sprite_9.uasset
+              31 archivos        545.844 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Manos
+
+[.]                      [..]                     manos.uasset
+manos_Sprite_0.uasset    manos_Sprite_1.uasset    manos_Sprite_10.uasset
+manos_Sprite_11.uasset   manos_Sprite_12.uasset   manos_Sprite_13.uasset
+manos_Sprite_14.uasset   manos_Sprite_15.uasset   manos_Sprite_16.uasset
+manos_Sprite_17.uasset   manos_Sprite_18.uasset   manos_Sprite_19.uasset
+manos_Sprite_2.uasset    manos_Sprite_20.uasset   manos_Sprite_21.uasset
+manos_Sprite_22.uasset   manos_Sprite_23.uasset   manos_Sprite_24.uasset
+manos_Sprite_25.uasset   manos_Sprite_26.uasset   manos_Sprite_27.uasset
+manos_Sprite_28.uasset   manos_Sprite_29.uasset   manos_Sprite_3.uasset
+manos_Sprite_30.uasset   manos_Sprite_31.uasset   manos_Sprite_32.uasset
+manos_Sprite_33.uasset   manos_Sprite_34.uasset   manos_Sprite_35.uasset
+manos_Sprite_36.uasset   manos_Sprite_37.uasset   manos_Sprite_38.uasset
+manos_Sprite_39.uasset   manos_Sprite_4.uasset    manos_Sprite_40.uasset
+manos_Sprite_41.uasset   manos_Sprite_42.uasset   manos_Sprite_43.uasset
+manos_Sprite_44.uasset   manos_Sprite_45.uasset   manos_Sprite_46.uasset
+manos_Sprite_5.uasset    manos_Sprite_6.uasset    manos_Sprite_7.uasset
+manos_Sprite_8.uasset    manos_Sprite_9.uasset    
+              48 archivos        905.514 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Muelle
+
+[.]                      [..]                     IdleMuelle.uasset
+muelle.uasset            MuelleAnim.uasset        muelle_Sprite_0.uasset
+muelle_Sprite_1.uasset   muelle_Sprite_2.uasset   
+               6 archivos        113.728 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\pinchos
+
+[.]                       [..]                      Pinchos.uasset
+Pinchos_FP.uasset         Pinchos_Sprite_0.uasset   Pinchos_Sprite_1.uasset
+Pinchos_Sprite_2.uasset   
+               5 archivos         98.917 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Plataformas
+
+[.]                          [..]
+[colorfull]                  full_open.uasset
+full_open_Sprite_0.uasset    [grapes]
+[mecha]                      metal_pf.uasset
+metal_pf_Sprite_0.uasset     room.uasset
+room_doors.uasset            room_doors_bien.uasset
+room_doors_Sprite_0.uasset   room_Sprite_0.uasset
+w_metal_pf.uasset            w_metal_pf_Sprite_0.uasset
+              11 archivos        164.378 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Plataformas\colorfull
+
+[.]                            [..]
+colorfull_pf.uasset            colorfull_pf_Sprite_0.uasset
+colorfull_pf_Sprite_1.uasset   colorfull_pf_Sprite_2.uasset
+colorfull_pf_Sprite_3.uasset   colorfull_pf_Sprite_4.uasset
+colorfull_pf_Sprite_5.uasset   colorfull_pf_Sprite_6.uasset
+colorfull_pf_Sprite_7.uasset   colorfull_pf_Sprite_8.uasset
+NewPaperFlipbook.uasset        
+              11 archivos        273.469 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Plataformas\grapes
+
+[.]                         [..]
+grape_pf.uasset             grape_pf_Sprite_0.uasset
+grape_pf_Sprite_1.uasset    grape_pf_Sprite_10.uasset
+grape_pf_Sprite_11.uasset   grape_pf_Sprite_12.uasset
+grape_pf_Sprite_13.uasset   grape_pf_Sprite_14.uasset
+grape_pf_Sprite_15.uasset   grape_pf_Sprite_16.uasset
+grape_pf_Sprite_17.uasset   grape_pf_Sprite_18.uasset
+grape_pf_Sprite_19.uasset   grape_pf_Sprite_2.uasset
+grape_pf_Sprite_20.uasset   grape_pf_Sprite_3.uasset
+grape_pf_Sprite_4.uasset    grape_pf_Sprite_5.uasset
+grape_pf_Sprite_6.uasset    grape_pf_Sprite_7.uasset
+grape_pf_Sprite_8.uasset    grape_pf_Sprite_9.uasset
+NewPaperFlipbook.uasset     
+              23 archivos        671.739 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Plataformas\mecha
+
+[.]                        [..]
+mecga_pf.uasset            mecga_pf_Sprite_0.uasset
+mecga_pf_Sprite_1.uasset   mecga_pf_Sprite_2.uasset
+mecga_pf_Sprite_3.uasset   mecga_pf_Sprite_4.uasset
+mecga_pf_Sprite_5.uasset   mecga_pf_Sprite_6.uasset
+mecga_pf_Sprite_7.uasset   mecha_an.uasset
+mecha_pf_Sprite_0.uasset   mecha_pf_Sprite_1.uasset
+mecha_pf_Sprite_2.uasset   mecha_pf_Sprite_3.uasset
+mecha_pf_Sprite_4.uasset   mecha_pf_Sprite_5.uasset
+mecha_pf_Sprite_6.uasset   mecha_pf_Sprite_7.uasset
+              18 archivos        266.359 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\Presentador
+
+[.]                      [..]                     Celeb.uasset
+Cool.uasset              Duckin.uasset            Duckin_Sprite_0.uasset
+Duckin_Sprite_1.uasset   Duckin_Sprite_2.uasset   Duckin_Sprite_3.uasset
+Duckin_Sprite_4.uasset   Duckin_Sprite_5.uasset   Duckin_Sprite_6.uasset
+Duckin_Sprite_7.uasset   Duckin_Sprite_8.uasset   talking.uasset
+              13 archivos        509.541 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\QuackDucks
+
+[.]                      [..]                     quack-normal.uasset
+quack.uasset             quack_Sprite_0.uasset    quack_Sprite_1.uasset
+quack_Sprite_10.uasset   quack_Sprite_11.uasset   quack_Sprite_12.uasset
+quack_Sprite_13.uasset   quack_Sprite_14.uasset   quack_Sprite_15.uasset
+quack_Sprite_16.uasset   quack_Sprite_17.uasset   quack_Sprite_18.uasset
+quack_Sprite_19.uasset   quack_Sprite_2.uasset    quack_Sprite_20.uasset
+quack_Sprite_21.uasset   quack_Sprite_22.uasset   quack_Sprite_3.uasset
+quack_Sprite_4.uasset    quack_Sprite_5.uasset    quack_Sprite_6.uasset
+quack_Sprite_7.uasset    quack_Sprite_8.uasset    quack_Sprite_9.uasset
+              25 archivos        600.058 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Sprites\RunFrames
+
+[.]                  [..]                 RunCycle_1.uasset
+RunCycle_10.uasset   RunCycle_11.uasset   RunCycle_12.uasset
+RunCycle_13.uasset   RunCycle_14.uasset   RunCycle_15.uasset
+RunCycle_16.uasset   RunCycle_2.uasset    RunCycle_3.uasset
+RunCycle_4.uasset    RunCycle_5.uasset    RunCycle_6.uasset
+RunCycle_7.uasset    RunCycle_8.uasset    RunCycle_9.uasset
+              16 archivos          3.888 bytes
+
+ Directorio de DuckGameContent\2DSideScroller\Textures
+
+[.]                                [..]
+2DBackground.uasset                2DBackgroundBlockAtlas.uasset
+2DBackgroundTile.uasset            2DCharacter_IdleAnimAtlas.uasset
+2DCharacter_RunAnimAtlas.uasset    
+               5 archivos      1.396.896 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP
+
+[.]                             [..]
+2DSideScrollerOverview.uasset   [Blueprints]
+[Maps]                          Neon.uasset
+               2 archivos        134.200 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints
+
+[.]                              [..]
+2DSideScrollerCharacter.uasset   2DSideScrollerGameMode.uasset
+Ak_BP.uasset                     Arma_BP.uasset
+Bala.uasset                      Bazooka_BP.uasset
+Boss.uasset                      Bot.uasset
+Boton_BP.uasset                  Bot_2.uasset
+Bot_Spawner.uasset               BOXES.uasset
+Caja_BP.uasset                   [Camera]
+Ecualizador.uasset               Estadisticas.uasset
+Explosion_BP.uasset              Granada_BP.uasset
+HabitacionRotacion.uasset        Habitacion_BP.uasset
+Hud.uasset                       Levels.uasset
+Map_BP.uasset                    [Materiales]
+Mecanismo.uasset                 Menu.uasset
+Mina_BP.uasset                   [Minijuegos]
+Misil_BP.uasset                  Muelle_BP.uasset
+[NewFolder]                      Noria_BP.uasset
+Objetive_BP.uasset               Objetivo.uasset
+Objetivo_BP.uasset               PartidaGuardada.uasset
+Pasillo_BP.uasset                Pausa.uasset
+Puerta.uasset                    Puerta_BP.uasset
+Ragdoll.uasset                   RandomItem_BP.uasset
+Revolver_BP.uasset               Systema_Usuarios_BP.uasset
+Tile.uasset                      Weapon_BP.uasset
+              42 archivos      3.807.272 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\Camera
+
+[.]                        [..]
+Capture.uasset             Capture_2.uasset
+Inicio.uasset              MiniMapa.uasset
+MiniMapa_Mat.uasset        Room.uasset
+WireframeMaterial.uasset   
+               7 archivos        513.141 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\Materiales
+
+[.]             [..]            Base.uasset     Black.uasset    COlora.uasset
+[VU]            
+               3 archivos        305.047 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\Materiales\VU
+
+[.]              [..]             Barra.uasset     Vumetro.uasset
+               2 archivos        630.544 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\Minijuegos
+
+[.]     [..]    [Piano] 
+               0 archivos              0 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\Minijuegos\Piano
+
+[.]             [..]            Base.uasset     dunit3.uasset   Neon.uasset
+Neon_2.uasset   Tile.uasset     
+               5 archivos     18.856.467 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Blueprints\NewFolder
+
+[.]              [..]             Jugador.uasset   
+               1 archivos         21.410 bytes
+
+ Directorio de DuckGameContent\2DSideScrollerBP\Maps
+
+[.]
+[..]
+2DSideScrollerExampleMap_BuiltData.uasset
+Bot_Training.umap
+Bot_Training_BuiltData.uasset
+CaneraTrain.umap
+DuckGame.umap
+lvl1.umap
+lvl1_BuiltData.uasset
+Pianos.umap
+Start.umap
+Vumetro.umap
+              10 archivos      1.532.036 bytes
+
+ Directorio de DuckGameContent\Splash
+
+[.]               [..]              EdSplash.bmp      EdSplash.uasset
+               2 archivos        464.766 bytes
+
+ Directorio de DuckGameContent\Unsorted
+
+[.]                 [..]                NewTrack_0.uasset   
+               1 archivos          1.591 bytes
+
+     Total de archivos en la lista:
+             569 archivos    194.502.248 bytes
+             281 dirs  58.513.969.152 bytes libres
