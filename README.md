@@ -1,16 +1,18 @@
 # Projecto Final
 
-Puedes generar el arbol de archivos con un simple comando para visualizarlo comodamente en un txt
-```bash
-tree > tree.txt
-```
-Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el archivo [Archivos][archivos], podras encontrar el arbol en el archivo [Tree][tree]
-
 ![GitHub top language](https://img.shields.io/github/languages/top/RGVylar/DuckGameContent.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/RGVylar/DuckGameContent.svg)
 [![GitHub contributors](https://img.shields.io/github/contributors/RGVylar/DuckGameContent.svg)](https://github.com/RGVylar/DuckGameContent/graphs/contributors)
 
+Puedes generar el arbol de archivos con un simple comando para visualizarlo comodamente en un txt
+```cmd
+dir /S /W > dir.txt
+```
+Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el archivo [Archivos][archivos], podras encontrar el arbol en el archivo [Dir][dir]
+
+
 * [Blueprints](#blueprints)
+* [Mapas](#mapas)
 * [Materiales](#materiales)
 * [Texturas](#texturas)
 * [Sonidos](#sonidos)
@@ -22,7 +24,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 | [Personaje][personaje] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/DuckGameContent/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg) |
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
-<a name="maps"></a>
+<a name="mapas"></a>
 ## Mapas
 | Mapa              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
@@ -43,7 +45,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 ## Sonidos
 
 [archivos]:https://github.com/RGVylar/DuckGameContent/archivos.bat
-[tree]:https://github.com/RGVylar/DuckGameContent/tree.txt
+[dir]:https://github.com/RGVylar/DuckGameContent/dir.txt
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
 [neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
