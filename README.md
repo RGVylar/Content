@@ -2,9 +2,9 @@
 
 Puedes generar el arbol de archivos con un simple comando para visualizarlo comodamente en un txt
 ```bash
-tree >tree.txt
-````
-Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el archivo [Archivos][archivos]
+tree > tree.txt
+```
+Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el archivo [Archivos][archivos], podras encontrar el arbol en el archivo [Tree][tree]
 
 ![GitHub top language](https://img.shields.io/github/languages/top/RGVylar/DuckGameContent.svg)
 ![GitHub language count](https://img.shields.io/github/languages/count/RGVylar/DuckGameContent.svg)
@@ -43,6 +43,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 ## Sonidos
 
 [archivos]:https://github.com/RGVylar/DuckGameContent/archivos.bat
+[tree]:https://github.com/RGVylar/DuckGameContent/tree.txt
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
 [neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
