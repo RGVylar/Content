@@ -44,8 +44,8 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando el arch
 <a name="sonidos"></a>
 ## Sonidos
 
-[archivos]:https://github.com/RGVylar/DuckGameContent/archivos.bat
-[dir]:https://github.com/RGVylar/DuckGameContent/dir.txt
+[archivos]:https://github.com/RGVylar/DuckGameContent/blob/master/archivos.bat
+[dir]:https://github.com/RGVylar/DuckGameContent/blob/master/dir.txt
 [personaje]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset
 [start]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Maps/Start.umap
 [neon]:https://github.com/RGVylar/DuckGameContent/blob/master/2DSideScrollerBP/Neon.uasset
