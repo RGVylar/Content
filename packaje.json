@@ -1,5 +1,5 @@
 {
-  "name": "DuckGameContent",
+  "name": "Content",
   "version": "1.0.0",
   "description": "Project in progress",
   "main": "start.bat",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RGVylar/DuckGameContent.git"
+    "url": "git+https://github.com/RGVylar/Content.git"
   },
   "author": "RGVylar",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RGVylar/DuckGameContent/issues"
+    "url": "https://github.com/RGVylar/Content/issues"
   },
-  "homepage": "https://github.com/RGVylar/DuckGameContent#readme",
+  "homepage": "https://github.com/RGVylar/Content#readme",
   "dependencies": {
     "npm": "^5.8.0"
   }
