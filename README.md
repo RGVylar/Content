@@ -28,15 +28,15 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 ## Blueprints
 | Blueprint              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
-| [Personaje][personaje] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset.svg) |
-| [Nota][nota] | El actor nota para el juego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Tile.uasset.svg) |
+| [Personaje][personaje] | Todo lo relacionado con el control del actor personaje | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Personaje/Blueprints/2DSideScrollerCharacter.uasset.svg) |
+| [Nota][nota] | El actor nota para el juego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Piano/Tile.uasset.svg) |
 | [Pausa][pausa] | Es el menu de pausa, detiene el juego y saca en pantalla dos botones | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Pausa.uasset.svg) |
 | [Levels][levels] | Es el menu de seleccion de niveles | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Levels.uasset.svg) |
-| [Hud][hud] | Es el hud que se sobrepone con el juego | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Hud.uasset.svg) |
+| [Hud][hud] | Es el hud que se sobrepone con el juego | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Hud/Blueprints/Hud.uasset.svg) |
 | [Menu][menu] | Menu inicial donde elegimos lo que hacer | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Menu.uasset.svg) |
 | [PartidaGuardada][partidaguardada] | Es para guardar las variables que queremos que sobrevivan reinicios | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/PartidaGuardada.uasset.svg) |
 | [Pasillo_BP][pasillo] | Un pasillo que se va extendiendo indefinidamente | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Pasillo_BP.uasset.svg) |
-| [Caja_BP][caja] | Una cahja que nos sigue y puede propulsarnos | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Blueprints/Caja_BP.uasset.svg) |
+| [Caja_BP][caja] | Una cahja que nos sigue y puede propulsarnos | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Caja/Blueprints/Caja_BP.uasset.svg) |
 
 >Las url cambiaran, debido a la necesario organizacion del repositorio
 
@@ -44,8 +44,8 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 ## Mapas
 | Mapa              |     Descripcion   |     Size       |
 |   :---:                |     :---:         |     :---:      |
-| [Start][start] | Es el menu inicial | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Maps/Start.umap.svg) |
-| [Pianos][piano] | Es el minijuego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/2DSideScrollerBP/Maps/Pianos.umap.svg) |
+| [Start][start] | Es el menu inicial | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Mapas/Start.umap.svg) |
+| [Pianos][piano] | Es el minijuego de musica | ![Github file size](https://img.shields.io/github/size/RGVylar/Content/Mapas/Pianos.umap.svg) |
 
 <a name="materiales"></a>
 ## Materiales
@@ -77,8 +77,8 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 [pasillo]:https://github.com/RGVylar/Content/blob/master/Pasillo
 [caja]:https://github.com/RGVylar/Content/blob/master/Caja
 
-[start]:https://github.com/RGVylar/Content/blob/master/2DSideScrollerBP/Maps/Start.umap
-[piano]:https://github.com/RGVylar/Content/blob/master/2DSideScrollerBP/Maps/Pianos.umap
+[start]:https://github.com/RGVylar/Content/blob/master/2DSideScrollerBP/Mapas/Start.umap
+[piano]:https://github.com/RGVylar/Content/blob/master/2DSideScrollerBP/Mapas/Pianos.umap
 
 [neon]:https://github.com/RGVylar/Content/blob/master/2DSideScrollerBP/Neon.uasset
 [minimapa]:https://github.com/RGVylar/Content/blob/master/2DSideScroller/Materials/MiniMap.uasset
