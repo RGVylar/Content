@@ -8,8 +8,27 @@
 
 Este repositorio solo alberga la carpeta content de nuestro proyecto final, para poder utilizarlo, debes tener la base del proyecto, que no he podido subir a GitHub por tener archivos con un tamaño mayor al permitido.
 >Si no tienes el proyecto base, puedes descargarlo [aqui][mega].
+o bien:
+```cmd
+git clone https://github.com/RGVylar/Content.git
+cd content
+git checkout 627a6308d1380d7487ce4b6d489df131ba35ac83
+```
+Ahora borras la carpeta `content`, y recomiendo que cambies el nombre de la carpeta original que has descargado, pues tambien se llama `content`:
+```cmd
+git clone https://github.com/RGVylar/Content.git
+```
+ahora ya tienes el codigo original del proyecto, y dentro el codigo actualizado del `content`, en caso de que salga una nueva version, solo tendras que entrar en la carpeta content y hacer:
+```cmd
+git fetch
+git merge
+```
+Si esto te da algun tipo derror, que no deberia, borras `content` y haces de nuevo:
+```cmd
+git clone https://github.com/RGVylar/Content.git
+```
 
-Puedes comprobar los avances y participacion del proyecto [aqui][here].
+Puedes comprobar los avances y participacion del proyecto [aqui][here], o [aqui][otro], dandole a `run`, que mola un monton.
 
 Tambien puedes generar un resumen de archivos con un simple comando para visualizarlo en la consola
 ```cmd
@@ -63,6 +82,7 @@ Este comando ya ha sido automatizado y puedes llevarlo a cabo ejecutando este [a
 
 [mega]:index.html
 [here]:https://github.com/RGVylar/Content/graphs/contributors
+[otro]:http://ghv.artzub.com/#repo=Content&climit=100&user=rgvylar
 
 [archivos]:https://github.com/RGVylar/Content/blob/master/archivos.bat
 [dir]:https://github.com/RGVylar/Content/blob/master/dir.txt
