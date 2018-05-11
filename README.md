@@ -14,16 +14,16 @@ git clone https://github.com/RGVylar/Content.git
 cd content
 git checkout 627a6308d1380d7487ce4b6d489df131ba35ac83
 ```
-Ahora borras la carpeta `content`, y recomiendo que cambies el nombre de la carpeta original que has descargado, pues tambien se llama `content`:
+Ahora borras la carpeta `\Content\Content`, y recomiendo que cambies el nombre de la carpeta original por `DuckGame2` que has descargado, pues tambien se llama `Content`, quedando asi `\DuckGame2\...`, ahora dentro de la carpeta `DuckGame` hacemos:
 ```cmd
 git clone https://github.com/RGVylar/Content.git
 ```
-ahora ya tienes el codigo original del proyecto, y dentro el codigo actualizado del `content`, en caso de que salga una nueva version, solo tendras que entrar en la carpeta content y hacer:
+ahora ya tienes el codigo original del proyecto `DuckGame2`, y dentro el codigo actualizado del `Content`, en caso de que salga una nueva version, solo tendras que entrar en la carpeta `Content` y hacer:
 ```cmd
 git fetch
 git merge
 ```
-Si esto te da algun tipo derror, que no deberia, borras `content` y haces de nuevo:
+Si esto te da algun tipo derror, que no deberia, borras `Content` y haces de nuevo:
 ```cmd
 git clone https://github.com/RGVylar/Content.git
 ```
