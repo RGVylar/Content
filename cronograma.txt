@@ -1,0 +1,68 @@
+* commit e06b51a0588bc76719b93eca152c0b949f6cbffe
+| Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| Date:   Sun May 20 21:30:18 2018 +0200
+| 
+|     dash fixed
+| 
+* commit 2b39661ebbb54a8ca217d13e241834bd24ce805c
+| Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| Date:   Sun May 20 20:12:32 2018 +0200
+| 
+|     serpiente arreglada
+|   
+*   commit ca5d87a089562966b200266fa642924a17028415
+|\  Merge: 54347ee a83895b
+| | Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| | Date:   Sun May 20 19:57:03 2018 +0200
+| | 
+| |     Merge pull request #62 from RGVylar/Gino
+| |     
+| |     dash y pulpo
+| | 
+| * commit a83895b6fca49797a8974ad7208547f9a86bf71d
+| | Author: ginoctis <ginzayuro@gmail.com>
+| | Date:   Sun May 20 18:54:19 2018 +0100
+| | 
+| |     dash y pulpo
+| |   
+* |   commit 54347eed76bb6f4544197fc85061ad4024d8b897
+|\ \  Merge: 1f8ec82 d33c48f
+| |/  Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| |   Date:   Sat May 19 19:16:09 2018 +0200
+| |   
+| |       Merge pull request #61 from RGVylar/Gino
+| |       
+| |       enemigos con sonidos y matan
+| | 
+| * commit d33c48f33a7ecf8256b5ff04406cecd06981b856
+|/  Author: ginoctis <ginzayuro@gmail.com>
+|   Date:   Sat May 19 17:52:15 2018 +0100
+|   
+|       enemigos con sonidos y matan
+| 
+* commit 1f8ec82b5be50c9f4a5f85516b45cceb6533171b
+| Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| Date:   Sat May 19 17:51:53 2018 +0200
+| 
+|     doloracion
+|   
+*   commit 14f048e13f554a6d111bcfeab5831a5dafbf56a3
+|\  Merge: dd5379b da37c40
+| | Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+| | Date:   Sat May 19 16:39:21 2018 +0200
+| | 
+| |     Merge pull request #60 from RGVylar/Gino
+| |     
+| |     enemigos con rango y vida
+| | 
+| * commit da37c40b1cd0446c2eeed3e0317600af9af09d23
+|/  Author: ginoctis <ginzayuro@gmail.com>
+|   Date:   Sat May 19 15:37:58 2018 +0100
+|   
+|       enemigos con rango y vida
+| 
+* commit dd5379b3126c5f32292029d10a4d09add8809c2f
+  Author: RGVylar <35527017+RGVylar@users.noreply.github.com>
+  Date:   Sat May 19 15:37:48 2018 +0200
+  
+      sabado
